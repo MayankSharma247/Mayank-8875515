@@ -1,1 +1,5 @@
-# Mayank-8875515
+Name - Mayank Sharma
+
+Project Title - Lab 3
+
+Student Id - 8875518
